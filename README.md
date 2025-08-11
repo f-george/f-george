@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-SWE @ Codethink
-
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/f-george)
 
 - 🌱 I’m currently learning burn-rs
